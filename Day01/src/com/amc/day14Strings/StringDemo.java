@@ -1,4 +1,4 @@
-package com.amc.day14;
+package com.amc.day14Strings;
 
 public class StringDemo {
 
