@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Test;
 
 //@Disabled
 
+
 public class JunitLifeCycle {
 	@Test
 	public void testMethodOne() {
